@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1733184964 source:c:\users\radha\onedrive\dokumen\semester 3\struktur data\kel 5\kelompok 5\gameproject.cpp
+	<iostream>
+	"gameproject.h"
+
+1733412325 c:\users\radha\onedrive\dokumen\semester 3\struktur data\kel 5\kelompok 5\gameproject.h
+
+1733235772 source:c:\users\radha\onedrive\dokumen\semester 3\struktur data\kel 5\kelompok 5\main.cpp
+	<iostream>
+	<string>
+	"gameproject.h"
+
+1733734882 source:c:\kuliah\struktur data\kelompok 5\kelompok 5\gameproject.cpp
+	<iostream>
+	"gameproject.h"
+
+1734449197 c:\kuliah\struktur data\kelompok 5\kelompok 5\gameproject.h
+
+1734449000 source:c:\kuliah\struktur data\kelompok 5\kelompok 5\main.cpp
+	<iostream>
+	<string>
+	"gameproject.h"
+
